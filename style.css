@@ -1,0 +1,12 @@
+#container {
+margin:auto;
+width: 600px;
+height: 600px;
+display: flex;
+flex-wrap: wrap;
+margin-top: 150px;
+}
+
+.box {
+    border: 1px solid black;
+}
